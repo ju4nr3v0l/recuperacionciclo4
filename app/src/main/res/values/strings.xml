@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Mis Tareas</string>
+    <string name="enter_task_description">Ingrese una descripcion</string>
+</resources>
